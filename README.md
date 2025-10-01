@@ -1,4 +1,16 @@
-This Python-based educational suite combines three core tools into a single text-based interface: a scientific calculator with both basic arithmetic and advanced functions (including trigonometry and logarithms), a grade manager that calculates weighted averages and converts scores to letter grades, and an interactive quiz application supporting various question types. The program features a user-friendly navigation system, along with robust input validation and error handling to ensure reliable performance across all modules.
+# 🐍 Python Educational Suite
+
+This project is a **Python-based educational toolkit** that brings together three powerful tools in one text-based interface: a **scientific calculator**, a **grade manager**, and an **interactive quiz application**. Built with a focus on accessibility and reliability, it provides a smooth learning experience for students and educators alike.
+
+---
+
+## 🔑 Key Features
+- **Scientific Calculator** – Supports both basic arithmetic and advanced functions (e.g., trigonometry, logarithms, and exponentials)  
+- **Grade Manager** – Calculates weighted averages and converts scores into letter grades  
+- **Quiz Application** – Interactive quizzes with multiple question types (e.g., multiple-choice, true/false, fill-in-the-blank)  
+- **Unified Navigation System** – Seamlessly switch between modules from a single menu  
+- **Robust Input Validation** – Prevents invalid entries and ensures smooth user experience  
+- **Error Handling** – Gracefully handles mistakes and edge cases without breaking execution  
 
 Schoolify Example:
 
